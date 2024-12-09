@@ -1,0 +1,59 @@
+
+
+.youtube{
+    color:white;
+    background-color: #b51e1e;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius:2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition:opacity 0.15s;
+    vertical-align:top;
+}
+.youtube:hover{
+    opacity:0.8;
+}
+.youtube:active{
+    opacity: 0.5;
+}
+.join-button{
+    background-color:white;
+    border-color: rgb(41,118,211);
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(41,118,211);
+    border-radius: 2px;
+    transition: background-color 1s, color 1s;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left:16px;
+    padding-right: 16px;
+}
+.join-button:hover{
+    background-color: rgb(41,118,211);
+    color:white;
+
+
+}
+join-button:active{
+    opacity:0.7;
+}
+.twitter{
+    background-color: #3eb4ed;
+    width:62px;
+    color: white;
+    border-style: none;
+    height: 36px;
+    border-radius: 17px;
+    margin-left: 8px;
+    transition: box-shadow 0.15s;
+    vertical-align: top;
+
+}
+.twitter:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20);
+}
+
